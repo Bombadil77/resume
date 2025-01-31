@@ -28,3 +28,13 @@ It is a well-architected application.
 That is what I am proud of.
 However, it is difficult to extract a concise and exciting code sample showing maintainability of a CRUD app.
 So, here is your string parsing.
+
+## Not Code
+I have read and listened to Hayek, Bastiat, Friedman, Mises, etc.
+I want the opportunity to play some part expanding liberty by striking at the institutions of banal tyranny.
+It will free those who pay taxes yet also those who live off of them.
+Perhaps I help by coding. Perhaps I can help some other way.
+
+"Always do right. This will gratify some people and astonish the rest."
+
+-- Mark Twain
